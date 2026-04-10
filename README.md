@@ -1,2 +1,2 @@
-# Python-Projects
-The purpose of this repository is to store science based python projects such as programs data analysis and visual simulations.
+# Python-Physics_Projects
+The purpose of this repository is to store python physics based programs. The programs that are currently available include a GUI program for data analysis built with the python Tkinter library and a classical mechanics projectile motion visual simulation of a ball in a box. These projects help in understanding physisc concepts with visualizations and making work such as analyzing data straight efficient.
