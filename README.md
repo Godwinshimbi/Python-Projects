@@ -1,13 +1,12 @@
-# Python-Physics_Projects
-The purpose of this repository is to store python physics based programs. The programs that are currently available include a GUI program for data analysis built with the python Tkinter library and a classical mechanics projectile motion visual simulation of a ball in a box. These projects help in understanding physisc concepts with visualizations and making work such as analyzing data straight efficient.
-# Python-Physics_Projects
-The purpose of this repository is to store python physics based programs. The programs that are currently available include a GUI program for data analysis built with the python Tkinter library and a classical mechanics projectile motion visual simulation of a ball in a box. These projects help in understanding physisc concepts with visualizations and making work such as analyzing data straight efficient.
+# Physics_Python_Projects
+This repository contains a collection of physics based python programs. The programs are organized in folders with their own readme files and requirments.
 
+## Projects
+- [Projectile Motion](./Projectile_Motion/README.md): Visualizing projectile motion
+-  [Linear_Least_Squares](./Linear_Least_Squares/README.md): Finds the best fit line of data
 
-# Features include:
--Finds the best fit line for measured data
--Saves time by eliminating the need to do tedious manual computations
--Stores results in a csv file
--Capable of visualizing data on a graph
--runs on python 3.0+
--Includes error handling to account for mistakes when entering data values
+## Guide for use
+- Navigate to the folder of a program
+- Check the program's readme file
+- Download and install python from official website, if not alreadly installed
+- Install the program's necessary python libraries in the requiremnts.txt file via a terminal with the command "pip install -r requirements.txt"
