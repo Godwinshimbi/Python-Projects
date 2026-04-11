@@ -10,7 +10,7 @@ This is a GUI program the linear least squares method built with the python Tkin
 - Includes error handling to account for mistakes when entering data values
 
 ## Installation Guide:
-In order to run this program locally on a computer run the following command in a terminal window:
+In order to run this program locally on a computer run the following commands in a terminal window:
 1. Clone the repositrory with "git clone https://github.com/YourUsername/python-projects.git"
 2. Navigate to program folder with "cd Python-Projects/Linear_Least_Squares"
 3. Install the required librairies with "python -m pip install -r requirements.txt"
