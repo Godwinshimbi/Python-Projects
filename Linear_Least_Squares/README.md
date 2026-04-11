@@ -6,7 +6,7 @@ This is a GUI program the linear least squares method built with the python Tkin
 - Saves time by eliminating the need to do tedious manual computations
 - Stores results in a csv file
 - Capable of visualizing data on a graph
-- runs on python 3.0+
+- runs on python 3.10+
 - Includes error handling to account for mistakes when entering data values
 
 ## Installation Guide:
