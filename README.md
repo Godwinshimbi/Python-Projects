@@ -2,7 +2,7 @@
 This repository contains a collection of physics based python programs. The programs are organized in folders with their own readme files and requirments.
 
 ## Projects
-- [Projectile Motion](./Projectile_Motion/README.md): Visualizing projectile motion
+- [Projectile Motion](./Projectile_Motion/README.md): Visualizes projectile motion
 -  [Linear_Least_Squares](./Linear_Least_Squares/README.md): Finds the best fit line of data
 
 ## Guide for use
