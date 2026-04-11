@@ -9,7 +9,7 @@
 
 ## Installation Guide:
 To run this program locally on a computer execute the following commands in a terminal window:
-1. Clone the repositrory with "git clone https://github.com/YourUsername/python-projects.git"
+1. Clone the repositrory with "git clone https://github.com/Godwinshimbi/python-projects.git"
 2. Navigate to program folder with "cd Python-Projects/Projectile_Motion"
 3. Install the required librairies with "python -m pip install -r requirements.txt"
 4. Run the program with "python Projectile_Motion.py"
