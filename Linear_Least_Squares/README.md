@@ -1,5 +1,5 @@
 # Linear Least Squares program for Data Analysis
-This is a GUI program the linear least squares method built with the python Tkinter library used to fit a straight line to data that was built with the python Tkinter library.
+This is a GUI program of the linear least squares method built with the python Tkinter library used to fit a straight line to data that was built with the python Tkinter library.
 
 ## Main Features:
 - Finds the best fit line for data expected to have linear relationship
