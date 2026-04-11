@@ -8,6 +8,6 @@ This repository contains a collection of physics based python programs. The prog
 ## Guide for use
 - Navigate to the folder of a program
 - Check the program's readme file
-- Download and install python from official website, if not alreadly installed
+- Download and install latest version of python from official website, if not alreadly installed
 - Install the program's necessary python libraries in the requiremnts.txt file running the "python -m pip install -r requirements.txt" in a terminal window
 -Due to performance issues it is recommened to run the programs using the python IDLE shell.
