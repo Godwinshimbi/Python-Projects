@@ -5,7 +5,7 @@
 - Visualizes the projectile motion of a ball in 3D
 - Aids in understanding and grasping how the initial velocity components of projectile affect it's motion  
 - Visualizes the variation of the velocity vector of a projectile
-- Compatible with python 3.0+
+- Compatible with python 3.10+
 
 ## Installation Guide:
 To run this program locally on a computer execute the following commands in a terminal window:
